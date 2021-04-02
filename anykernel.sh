@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=QuicksilveR Kernel by ghostrider-reborn
+kernel.string=Quicksilver ReloadedOS-Edition by @Aryaman895
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=willow
 device.name3=
 device.name4=
 device.name5=
-supported.versions=10.0-11.0
+supported.versions=10.0
 supported.patchlevels=
 '; } # end properties
 
